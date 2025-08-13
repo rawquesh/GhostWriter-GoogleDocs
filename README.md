@@ -1,6 +1,6 @@
 # GhostWriter, HumanTyper — Google Docs
 
-![GhostWriter Banner](https://raw.githubusercontent.com/rawquesh/GhostWriter-GoogleDocs/refs/heads/main/src/logo2.png?token=GHSAT0AAAAAADCSLABBTM2N6TUA3HQUFJFO2E4N63Q)
+![GhostWriter Banner](https://github.com/rawquesh/GhostWriter-GoogleDocs/blob/main/src/logo2.png)
 
 **The ultimate tool to simulate human-like typing in Google Docs. Make your automated text entry look natural and authentic.**
 
