@@ -13,7 +13,7 @@ This is a free and open-source Chrome extension that brings a human touch to you
 You can install the official version of GhostWriter directly from the Chrome Web Store.
 
 <a href="https://chromewebstore.google.com/detail/cmceklgmjgenbcofhkpbieblcjjigepo?utm_source=item-share-cb" target="_blank">
-  <img src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/chrome-extensions-4312d461.png" alt="Add to Chrome" width="200">
+  <img src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/chrome-extensions-4312d461.png" alt="Add to Chrome" width="100">
 </a>
 
 ---
