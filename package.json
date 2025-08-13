@@ -1,6 +1,7 @@
 {
-  "name": "typing-simulator-ext",
-  "author": "wong2",
+  "name": "ghostwriter-googledocs",
+  "author": "rawquesh",
+  "license": "MIT",
   "scripts": {
     "build": "node build.mjs",
     "lint": "eslint --ext .js,.mjs,.jsx .",
