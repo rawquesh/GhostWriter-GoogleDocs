@@ -49,11 +49,11 @@ Interested in contributing? Here’s how to get the project running locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/rawquesh/GhostWriter-GoogleDocs.git](https://github.com/rawquesh/GhostWriter-GoogleDocs.git)
+    gh repo clone rawquesh/GhostWriter-GoogleDocs
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd ghostwriter
+    cd GhostWriter-GoogleDocs
     ```
 3.  **Install the dependencies:**
     ```bash
