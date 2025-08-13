@@ -1,6 +1,6 @@
 # GhostWriter, HumanTyper — Google Docs
 
-![GhostWriter Banner](https://placehold.co/1200x400/8c3afe/ffffff?text=GhostWriter&font=roboto)
+![GhostWriter Banner](https://raw.githubusercontent.com/rawquesh/GhostWriter-GoogleDocs/refs/heads/main/src/logo2.png?token=GHSAT0AAAAAADCSLABBTM2N6TUA3HQUFJFO2E4N63Q)
 
 **The ultimate tool to simulate human-like typing in Google Docs. Make your automated text entry look natural and authentic.**
 
@@ -12,11 +12,9 @@ This is a free and open-source Chrome extension that brings a human touch to you
 
 You can install the official version of GhostWriter directly from the Chrome Web Store.
 
-<a href="YOUR_CHROME_STORE_LINK" target="_blank">
-  <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfL2215511A.png" alt="Add to Chrome" width="200">
+<a href="https://chromewebstore.google.com/detail/cmceklgmjgenbcofhkpbieblcjjigepo?utm_source=item-share-cb" target="_blank">
+  <img src="https://www-assets.kolide.com/assets/inventory/device_properties/icons/chrome-extensions-4312d461.png" alt="Add to Chrome" width="200">
 </a>
-
-*(Please replace `YOUR_CHROME_STORE_LINK` with the actual link once it's published.)*
 
 ---
 
@@ -34,7 +32,7 @@ You can install the official version of GhostWriter directly from the Chrome Web
 
 ## 🛠️ How to Use
 
-1.  **Install the extension** from the [Chrome Web Store](YOUR_CHROME_STORE_LINK).
+1.  **Install the extension** from the [Chrome Web Store](https://chromewebstore.google.com/detail/cmceklgmjgenbcofhkpbieblcjjigepo?utm_source=item-share-cb).
 2.  **Open a Google Docs** document.
 3.  **Click the GhostWriter icon** in your Chrome toolbar and then click "Show dialog".
 4.  **Paste your text** into the text area.
@@ -51,7 +49,7 @@ Interested in contributing? Here’s how to get the project running locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ghostwriter.git](https://github.com/YOUR_USERNAME/ghostwriter.git)
+    git clone [https://github.com/rawquesh/GhostWriter-GoogleDocs.git](https://github.com/rawquesh/GhostWriter-GoogleDocs.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -91,7 +89,7 @@ This extension was developed with ❤️ by **Blue Touch**.
 
 We are a 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗴𝗲𝗻𝗰𝘆 specializing in customized mobile and web applications. Our team of seasoned 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, each with over 5 years of industry experience, harnesses leading technologies like 𝗙𝗹𝘂𝘁𝘁𝗲𝗿, 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲, 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗮𝗻𝗱 𝗺𝗼𝗿𝗲 to deliver user-friendly, scalable solutions that drive business growth. Our collective expertise enables us to transform your vision into a successful app.
 
-* **Website:** [bluetouch.agency](https://www.bluetouch.agency) *(Replace with your actual website)*
-* **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) *(Replace with your GitHub profile)*
+* **Website:** [bluetouch.dev](https://www.bluetouch.dev) 
+* **GitHub:** [github.com/rawquesh](https://github.com/rawquesh) 
 
-Looking for a reliable team to build your next project? [**Get in touch!**](https://www.bluetouch.agency/contact) *(Replace with your contact link)*
+Looking for a reliable team to build your next project? [**Get in touch!**](https://www.bluetouch.dev/#contact) 
